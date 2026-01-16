@@ -1,21 +1,21 @@
 # ❤️ Daftar Pacar App (Flutter CRUD)
 
 <p align="center">
-  <img src="CRUD-1.PNG" width="700"/>
+  <img src="CRUD-1.PNG" width="900"/>
 </p>
 
 <p align="center">
-  <img src="CRUD-6.PNG" width="700"/>
+  <img src="CRUD-6.PNG" width="900"/>
 </p>
 
 <p align="center">
-  <img src="CRUD-2.PNG" width="400"/>
-  <img src="CRUD-3.PNG" width="400"/>
+  <img src="CRUD-2.PNG" width="300"/>
+  <img src="CRUD-3.PNG" width="300"/>
 </p>
 
 <p align="center">
-  <img src="CRUD-4.PNG" width="400"/>
-  <img src="CRUD-5.PNG" width="400"/>
+  <img src="CRUD-4.PNG" width="300"/>
+  <img src="CRUD-5.PNG" width="300"/>
 </p>
 
 ---
